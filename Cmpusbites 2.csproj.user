@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CafeM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMadditem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMhiringaddcashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMhiringaddinvmanager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMhiringremovecashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMhiringremoveinvmanager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMhiringshowstaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMremoveitem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMsetcoupons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMsetcouponsto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMviewinsights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMviewinventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeMviewsales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CafeM_hiring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custfeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custmenudesserts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custmenudrinks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custmenufastfood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custmenusnacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custmycart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custtrackorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custmyaccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvMadditem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvMorderitems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvMremoveitem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvMsuppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvMupdateitem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvMviewinventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
